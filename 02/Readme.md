@@ -19,7 +19,15 @@ tersebut.
 
 <img src="images/02.png" width="700">
 
-3. 
+3. Carilah petunjuk untuk: me-restart proses dan mematikan proses. Matikan proses
+yang dimunculkan oleh aplikasi yang anda jalankan, jangan gunakan perintah untuk
+keluar dari aplikasi yang anda jalankan tetapi gunakan perintah untuk mematikan
+proses dari aplikasi yang anda jalankan.
+
+Merestart aplikasi
+
+<img src="images/03.png" width="700">
+
 B. Latihan
 
 
