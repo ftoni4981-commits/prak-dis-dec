@@ -11,11 +11,15 @@ A. Pembahasan Praktikum
 
 <img src="images/01.png" width="700">
 
+Pembahasan :
+Ini pembahasan
+
 2. Jalankan salah satu aplikasi, perlihatkan proses yang dimunculkan oleh aplikasi
 tersebut.
 
 <img src="images/02.png" width="700">
 
+3. 
 B. Latihan
 
 
