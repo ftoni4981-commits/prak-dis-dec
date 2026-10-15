@@ -12,7 +12,11 @@ Mampu menganalisis...
 
 2. Pembahasan Praktikum, Latihan, dan Tugas
 
-A. Pembahasan Praktikum (Teori / Langkah Percobaan)
+A. Pembahasan Praktikum
+
+1. Cek task manager
+
+<img src="images/01.png" width="700">
 
 Berikan penjelasan mengenai langkah-langkah percobaan atau hasil dari praktikum yang telah dilakukan.
 
